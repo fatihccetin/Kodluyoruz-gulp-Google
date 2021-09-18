@@ -6,3 +6,6 @@ gulp sass - scss and minify css file
 <code>gulp</code>
 
 <code> npm i -g gulp-cli</code>
+
+
+<img src="./assets/google.png" alt="" />
