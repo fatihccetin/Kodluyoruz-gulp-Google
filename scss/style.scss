@@ -18,7 +18,6 @@ body {
     font-family: $secondary-font;
    // color: $gray-color;
     height:100vh;
-    height: 94vh;
     background-color: $light-color;
 }
 
@@ -92,4 +91,6 @@ nav{
     display:flex;
     align-items:center;
     justify-content: center;
+    height: 94vh;
+    width: 100%;
 }

@@ -1,0 +1,17 @@
+
+$primary-font: 'Changa', sans-serif;
+$secondary-font:'Open Sans', sans-serif;
+
+
+
+
+$gray-color:#9F9F9F;
+$light-color:#fefefe;
+
+@mixin flex-display ($display,$align-items,$justify-content) {
+
+    display: $display; 
+    align-items: $align-items;
+    justify-content: $justify-content;
+    
+}
